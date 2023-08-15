@@ -1,0 +1,13 @@
+.shape-image {
+    opacity: 0; 
+    transition: opacity 0.3s ease;
+  }
+  
+  .home-hero-product-rev-box:hover .shape-image {
+    opacity: 1;
+  }
+  .product-box:hover .home-hero-product-shape {
+    opacity: 1;
+  }
+
+  
